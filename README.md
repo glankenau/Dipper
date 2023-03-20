@@ -1,0 +1,2 @@
+# Dipper
+Dipper bot codebase
