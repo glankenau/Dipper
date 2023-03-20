@@ -93,7 +93,7 @@ def get_chat_response(chat_id: int, username: str, isVoiceMessage: bool = False)
 Waiting_for_chat_message, Waiting_for_raw_prompt = range(2)
 
 admin = 1080659616
-auth_list = [2112411445, 1250555072]
+auth_list = [2112411445, 1250555072, 1198524051]
 
 # enum of auth modes
 class AuthMode(Enum):
